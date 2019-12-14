@@ -454,6 +454,7 @@ label{
     .hero-bg{
         width: auto;
         height: 80%;
+        left: -50%;
     }
     
   }
