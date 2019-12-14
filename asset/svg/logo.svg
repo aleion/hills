@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 95.805 47.074">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        font-size: 22px;
+        font-family: KnuckleheadFREERegular, Knucklehead FREE;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="logo" transform="translate(-275 -326.256)">
+    <g id="Layer_2" transform="translate(275 326.478)">
+      <path id="Path_1" data-name="Path 1" class="cls-1" d="M275,334.062h3.892v-3.281H290.9v14.679l4.559.834V330.781h12.288v3.169l3.447.111V326.5H275Z" transform="translate(-275 -326.5)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-1" d="M295,394.75h14.235v-4h-4.615V375.956l-4.726-.556v15.18H295Z" transform="translate(-283.879 -348.21)"/>
+      <path id="Path_3" data-name="Path 3" class="cls-1" d="M290.233,342.4h-7.451l-4.782,5v9.063l29.192,4.281v4.226l-2.5,3.169h-6.116V372.2h8.063l4.671-5.06v-9.175l-29.192-4.615v-4.17l2.168-2.391h6.005Z" transform="translate(-276.332 -333.559)"/>
+      <path id="Path_4" data-name="Path 4" class="cls-1" d="M315.2,342.4v4.337h5.5l3.058,2.725v3.614h4.059v-5.338l-4.838-5.338Z" transform="translate(-292.847 -333.559)"/>
+      <path id="Path_5" data-name="Path 5" class="cls-1" d="M290.288,383.018v3.837h-7.729l-4.56-5.06V375.4h3.781v4.782l2.335,2.836Z" transform="translate(-276.332 -348.21)"/>
+      <g id="Symbol_1_1" data-name="Symbol 1 – 1">
+        <text id="THARP_URAVEL" data-name="THARP
+URAVEL" class="cls-2" transform="translate(47.61 21.745)"><tspan x="0" y="0">THARP</tspan><tspan x="0" y="15">URAVEL</tspan></text>
+      </g>
+      <line id="Line_1" data-name="Line 1" class="cls-3" x2="50.877" transform="translate(44.928 0.778)"/>
+      <line id="Line_2" data-name="Line 2" class="cls-3" x2="50.877" transform="translate(44.928 45.852)"/>
+    </g>
+  </g>
+</svg>
