@@ -270,19 +270,19 @@ h5{
     margin-left: 5px;
 }
 .one{
-    background-image: url(asset/img/our-adv/himalaya.png);
+    background-image: url("https://https://aleion.github.io/asset/img/our-adv/himalaya.png");
 }
 .two{
-    background-image: url(../asset/img/our-adv/patagonia.png);
+    background-image: url("https://https://aleion.github.io/asset/img/our-adv/patagonia.png");
 }
 .tree_img{
-    background-image: url(asset/img/our-adv/tanzania.png);
+    background-image: url("https://https://aleion.github.io/asset/img/our-adv/tanzania.png");
 }
 .four{
-    background-image: url(./asset/img/our-adv/deathvalley.png);
+    background-image: url("https://https://aleion.github.io/asset/img/our-adv/deathvalley.png");
 }
 .five{
-    background-image: url(./asset/img/our-adv/tanzania.png);
+    background-image: url("https://https://aleion.github.io/asset/img/our-adv/tanzania.png");
 }
 /*----------------FORM-------------*/
 .contact{
