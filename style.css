@@ -6,7 +6,7 @@
 }
 @font-face{
     font-family: 'Gobold';
-    src: url(/asset/font/gobold/Gobold\ Light.woff);
+    src: url(../asset/font/gobold/Gobold\ Light.woff);
     font-style: normal;
     font-weight: lighter;
 }
@@ -164,7 +164,7 @@ nav .logo{
     height: 100vh;
     padding: 80px;
     margin-top: 30px;
-    background-image: url(/asset/img/fast&secure/background.png);
+    background-image: url(../asset/img/fast&secure/background.png);
     background-position: bottom;
 }
 .fast-container{
@@ -270,19 +270,19 @@ h5{
     margin-left: 5px;
 }
 .one{
-    background-image: url(/asset/img/our-adv/himalaya.png);
+    background-image: url(../asset/img/our-adv/himalaya.png);
 }
 .two{
-    background-image: url(/asset/img/our-adv/patagonia.png);
+    background-image: url(../asset/img/our-adv/patagonia.png);
 }
 .tree_img{
-    background-image: url(/asset/img/our-adv/tanzania.png);
+    background-image: url(../asset/img/our-adv/tanzania.png);
 }
 .four{
-    background-image: url(/asset/img/our-adv/deathvalley.png);
+    background-image: url(../asset/img/our-adv/deathvalley.png);
 }
 .five{
-    background-image: url(/asset/img/our-adv/tanzania.png);
+    background-image: url(../asset/img/our-adv/tanzania.png);
 }
 /*----------------FORM-------------*/
 .contact{
@@ -291,7 +291,7 @@ h5{
     height: auto;
     padding: 40px 100px;
     display: grid;
-    background-image: url(/asset/img/contact-bg.png);
+    background-image: url(../asset/img/contact-bg.png);
 }
 
 .forms{
