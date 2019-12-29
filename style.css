@@ -223,8 +223,8 @@ h5{
 }
 .images{
     display: grid;
-    grid-template-columns: repeat(5, 1fr);
-    grid-gap: 10px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 30px;
     margin-top: 25px;
 }
 .blocks{
@@ -270,9 +270,6 @@ h5{
     height: 15px;
     margin-left: 5px;
 }
-.one{
-    background-image: url("https://https://aleion.github.io/asset/img/our-adv/himalaya.png");
-}
 .adv-img{
     width: 100%;
     position: absolute;
@@ -280,15 +277,7 @@ h5{
     right: 0;
     z-index: -5;
 }
-.tree_img{
-    background-image: url("https://https://aleion.github.io/asset/img/our-adv/tanzania.png");
-}
-.four{
-    background-image: url("https://https://aleion.github.io/asset/img/our-adv/deathvalley.png");
-}
-.five{
-    background-image: url("https://https://aleion.github.io/asset/img/our-adv/tanzania.png");
-}
+
 /*----------------FORM-------------*/
 .contact{
     text-align: center;
@@ -453,6 +442,10 @@ label{
 
 @media only screen and (max-width: 430px) {
 
+    body{
+        width: 100%;
+    }
+
     .container{
         width: 100%;
         overflow: hidden;
@@ -477,14 +470,15 @@ label{
     /*----------who---------*/
     .who{
         grid-template-columns: 1fr;
-        width: 80%;
+        width: 90%;
         margin: auto;
-        padding: 10px;
+        padding: 8px;
+        text-align: center;
 
     }
     iframe{
         width: auto;
-        height: 80vh;
+        height: 60vh;
     }
     .ifram-container{
         order: 2;
@@ -496,5 +490,40 @@ label{
     .buttons .white-btn{
         margin-bottom: 5px;
     }
+    /*-------fast----------*/
+    .fast{
+        widows: 90%;
+        padding: 8px;
+        margin-left: auto;
+        text-align: center;
+        background-repeat: no-repeat;
+        height: 80vh;
+    }
+    .fast-container{
+        width: 100%;
+        margin-top: 20px;
+    }
+    /*--------adv----------*/
+    .our-adv{
+        width: 100%;
+        padding: 8px;
+        text-align: center;
+        margin-top: 50px;
+    }
+    .images{
+        margin-top: 50px;
+        grid-column-gap: 10px; 
+        grid-row-gap: 50px;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .text{
+        background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.475210066936931) 50%, rgba(0,0,0,0) 100%);
+    }
+    .blocks{
+        width: 180px;
+        height: 250px;
+    }
+    .adv-img{
+        height: 100%;}
     
   }
