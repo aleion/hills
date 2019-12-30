@@ -552,4 +552,7 @@ label{
         width: 350px;
         padding: 20px;
     }
+    .subs-form input{
+        width: 90%;
+    }
   }
