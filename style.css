@@ -525,5 +525,31 @@ label{
     }
     .adv-img{
         height: 100%;}
-    
+    /*----------contact------*/
+    .contact{
+        padding: 8px;
+        width: 100vw;
+        grid-template-columns: 1fr;
+        grid-template-rows: 2fr;
+        height: 100%;
+        position: relative;
+        justify-content: center;
+    }
+    .contact .titles{
+        margin-bottom: 15px;
+    }
+    .forms{
+        width: 100vw;
+        padding: 0;
+        grid-template-columns: 1fr;
+        margin: auto;
+    }
+    .subscribe{
+        width: 350px;
+        margin: 10px 0 20px 0;
+    }
+    .write-us{
+        width: 350px;
+        padding: 20px;
+    }
   }
