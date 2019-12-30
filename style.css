@@ -511,16 +511,18 @@ label{
         margin-top: 50px;
     }
     .images{
+        width: 100%;
         margin-top: 50px;
         grid-column-gap: 10px; 
         grid-row-gap: 50px;
         grid-template-columns: repeat(2, 1fr);
+        justify-items: center;
     }
     .text{
         background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.475210066936931) 50%, rgba(0,0,0,0) 100%);
     }
     .blocks{
-        width: 180px;
+        width: 160px;
         height: 250px;
     }
     .adv-img{
